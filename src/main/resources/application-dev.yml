@@ -8,9 +8,9 @@ spring:
     username: root
     password: 123456
   mail:
-    host: smtp.iszhouhua.com
-    username: test@iszhouhua.com
-    password: Zh123456
+    host: smtp.qq.com
+    username: 839119912@qq.com
+    password: lykpbzruxsribfid
 mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
